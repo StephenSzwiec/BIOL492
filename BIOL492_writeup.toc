@@ -1,0 +1,83 @@
+\contentsline {section}{\numberline {1}System Description}{4}{section.1}%
+\contentsline {section}{\numberline {2}Agrobase Audit}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Data Analysis}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Findings and Actions Taken}{8}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Database Nomenclature Revision}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Methodology}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Future Work}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Genome-Wide Agronomic Selection - parallelization for HPC clusters}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Introduction}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}GWAS Data Analysis}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Pea Population Structure}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Results}{11}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Phenotypic heritability and correlation}{11}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Comparison of predictive ability of different genomic selection models}{11}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Determining optimal marker density}{11}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}Population structure and prediction}{11}{subsubsection.4.4.4}%
+\contentsline {section}{\numberline {5}Seed Inventory System Design}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Introduction}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Description of System}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Kaizen Audit Findings}{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Changes Made}{14}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Required Components}{14}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Physical Organization}{15}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Proposed Future System}{17}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}GNU Affero General Public License version 3}{18}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.2}CentOS 8 GNU/Linux}{18}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {5.7.3}Docker}{18}{subsubsection.5.7.3}%
+\contentsline {subsubsection}{\numberline {5.7.4}SQLite}{18}{subsubsection.5.7.4}%
+\contentsline {subsubsection}{\numberline {5.7.5}NodeJS}{18}{subsubsection.5.7.5}%
+\contentsline {subsubsection}{\numberline {5.7.6}Express}{19}{subsubsection.5.7.6}%
+\contentsline {subsubsection}{\numberline {5.7.7}Angular}{19}{subsubsection.5.7.7}%
+\contentsline {subsubsection}{\numberline {5.7.8}Bootstrap}{19}{subsubsection.5.7.8}%
+\contentsline {subsubsection}{\numberline {5.7.9}ngx-admin}{19}{subsubsection.5.7.9}%
+\contentsline {subsubsection}{\numberline {5.7.10}Mocha}{20}{subsubsection.5.7.10}%
+\contentsline {subsubsection}{\numberline {5.7.11}Github}{20}{subsubsection.5.7.11}%
+\contentsline {subsection}{\numberline {5.8}Database Schema}{20}{subsection.5.8}%
+\contentsline {subsubsection}{\numberline {5.8.1}Users}{22}{subsubsection.5.8.1}%
+\contentsline {subsubsection}{\numberline {5.8.2}Locations}{22}{subsubsection.5.8.2}%
+\contentsline {subsubsection}{\numberline {5.8.3}Vendors}{22}{subsubsection.5.8.3}%
+\contentsline {subsubsection}{\numberline {5.8.4}SeedTypes}{23}{subsubsection.5.8.4}%
+\contentsline {subsubsection}{\numberline {5.8.5}Shelves}{23}{subsubsection.5.8.5}%
+\contentsline {subsubsection}{\numberline {5.8.6}Orders}{24}{subsubsection.5.8.6}%
+\contentsline {subsubsection}{\numberline {5.8.7}OrderItems}{24}{subsubsection.5.8.7}%
+\contentsline {subsubsection}{\numberline {5.8.8}Messages}{25}{subsubsection.5.8.8}%
+\contentsline {subsubsection}{\numberline {5.8.9}SeedInventory}{25}{subsubsection.5.8.9}%
+\contentsline {subsubsection}{\numberline {5.8.10}Accounts}{26}{subsubsection.5.8.10}%
+\contentsline {subsubsection}{\numberline {5.8.11}Transactions}{27}{subsubsection.5.8.11}%
+\contentsline {subsection}{\numberline {5.9}Functional Model and User Experience}{28}{subsection.5.9}%
+\contentsline {section}{\numberline {6}Virtual Machine Environment Planning}{30}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Introduction}{30}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Requirements}{31}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Functional Overview}{31}{subsubsection.6.2.1}%
+\contentsline {paragraph}{1. Data Durability}{31}{paragraph*.1}%
+\contentsline {paragraph}{2. Data Availability}{32}{paragraph*.2}%
+\contentsline {paragraph}{3. Knowledge Management}{32}{paragraph*.3}%
+\contentsline {paragraph}{4. Data Pre-processing}{33}{paragraph*.4}%
+\contentsline {subsubsection}{\numberline {6.2.2}Proposed System}{33}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Work Performed}{35}{subsubsection.6.2.3}%
+\contentsline {paragraph}{Cybersecurity Hardening}{35}{paragraph*.5}%
+\contentsline {paragraph}{Mediawiki implementation}{35}{paragraph*.6}%
+\contentsline {subsection}{\numberline {6.3}Future Work}{35}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Conclusions and Research Direction}{36}{section.7}%
+\contentsline {section}{Appendices}{37}{section*.7}%
+\contentsline {section}{\numberline {A}Agrobase Audit}{37}{appendix.a.A}%
+\contentsline {subsection}{\numberline {A.1}Abandoned Experiment Identification}{37}{subsection.a.A.1}%
+\contentsline {subsection}{\numberline {A.2}Outlier Identification}{38}{subsection.a.A.2}%
+\contentsline {section}{\numberline {B}Nomenclature Revision}{41}{appendix.a.B}%
+\contentsline {subparagraph}{I.}{41}{subparagraph*.8}%
+\contentsline {subparagraph}{II.}{41}{subparagraph*.9}%
+\contentsline {subparagraph}{III.}{41}{subparagraph*.10}%
+\contentsline {subparagraph}{IV.}{42}{subparagraph*.11}%
+\contentsline {section}{\numberline {C}Genome-Wide Agronomic Selection - Scripting and Summary Statistics}{43}{appendix.a.C}%
+\contentsline {subsection}{\numberline {C.1}Creation of SNP Matrix}{43}{subsection.a.C.1}%
+\contentsline {subsection}{\numberline {C.2}Parallel Genome Wide Agronomic Selection}{43}{subsection.a.C.2}%
+\contentsline {subsection}{\numberline {C.3}PBS Script for compute node pooling}{45}{subsection.a.C.3}%
+\contentsline {subsection}{\numberline {C.4}Phenotypic Heritability and correlation}{47}{subsection.a.C.4}%
+\contentsline {subsection}{\numberline {C.5}Comparison of predictive ability}{47}{subsection.a.C.5}%
+\contentsline {section}{\numberline {D}VM Hardening - Security Implementation}{47}{appendix.a.D}%
+\contentsline {section}{\numberline {E}Mediawiki Docker Container Setup}{53}{appendix.a.E}%
+\contentsline {section}{\numberline {F}Acknowledgements}{54}{appendix.a.F}%
+\contentsline {section}{Bibliography}{57}{Item.101}%
